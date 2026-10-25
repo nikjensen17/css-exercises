@@ -5,11 +5,17 @@
     font-family: Verdana, sans-serif;
 }
 
-#second_element {
+#second-element {
     color: blue;
     font-size: 36px;
 }
 
-#third_element {
+.odd_number#third-element {
     font-size: 24px;
+}
+
+#fourth-element {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
